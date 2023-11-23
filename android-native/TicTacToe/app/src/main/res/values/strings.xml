@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="app_title">Tic-tac-toe</string>
+    <string name="app_score">Score:</string>
+    <string name="playerO_step">The player ⭕ walks</string>
+    <string name="playerX_step">The player ❌ walks</string>
+    <string name="playerO_won">The player ⭕ won</string>
+    <string name="playerX_won">The player ❌ won</string>
+    <string name="sequenceSizeForWin">A sequence size for win : </string>
+    <string name="gameDimension">The game dimension : </string>
+    <string name="newGame">New game</string>
+    <string name="test">Test</string>
+    <string name="restart">Restart</string>
+    <string name="draw">Draw 🤝</string>
+</resources>
